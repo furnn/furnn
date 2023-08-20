@@ -12,7 +12,7 @@
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-005000?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-326CE5?style=flat-square&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-326CE5?style=flat-square&logo=HTML&logoColor=white"/>
 </div>
 <div>
 </div>
