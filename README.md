@@ -24,15 +24,15 @@
 * `Computer-Vision`,
 
 
-### 😄 Interesting
-* `semantic segmentation`
-* `medical AI`
+
 
 ### 📫 How to reach me
 please feel free to contact me by email! (`gka0656@gmail.com`)
 
 <!--
-**suhongkim98/suhongkim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😄 Interesting
+* `semantic segmentation`
+* `medical AI`
 
 Here are some ideas to get you started:
 
