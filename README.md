@@ -2,8 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 ### Hi there 👋
 안녕하세요! AI 개발자 함신우라고 합니다.<br/>
-
+-->
 <!-- https://simpleicons.org/ -->
+<!--
 <h3>💻 Tech Stack 💻</h3>
 <div>
   <img src="https://img.shields.io/badge/python-4479A1?style=flat-square&logo=python&logoColor=yellow"/>
